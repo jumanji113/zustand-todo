@@ -1,0 +1,19 @@
+.article {
+    min-width: 600px;
+    background: white;
+    border-radius: 20px;
+    padding: 20px 55px 30px;
+
+    &Title {
+        margin-bottom: 0.3em;
+        text-align: center;
+        font-size: 40px;
+        font-weight: 400;
+        line-height: normal;
+    }
+
+    &Text {
+        text-align: center;
+        text-transform: uppercase;
+    }
+}
